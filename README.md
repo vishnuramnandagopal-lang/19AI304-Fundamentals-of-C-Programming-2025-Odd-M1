@@ -1,3 +1,7 @@
+name : G.N vishnuram
+reg.no:212225240187
+
+
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M1
 # IAPR-1- Module 1 - FoC
 ## 1. Implementation of basic C programs using Literals,Consonants, Variables, Data types.
