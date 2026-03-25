@@ -26,7 +26,7 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
-
+~~~
 #include <stdio.h>
 
 int main() {
@@ -42,7 +42,7 @@ int main() {
 
     return 0;
 }
-
+~~~
 Output:
 # <img width="551" height="124" alt="Screenshot 2026-03-25 083519" src="https://github.com/user-attachments/assets/05fb0f5c-5956-4698-952d-a924c218a01d" />
 
@@ -77,6 +77,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+~~~
 #include <stdio.h>
 #define PI 3.14159
 int main() {
@@ -87,6 +88,7 @@ int main() {
 
     return 0;
 }
+~~~
 # Output:
 <img width="565" height="142" alt="Screenshot 2026-03-25 083810" src="https://github.com/user-attachments/assets/332dcbbc-5c47-4275-b4b3-cc35a0eab35c" />
 
@@ -113,6 +115,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+~~~
 #include <stdio.h>
 int main() {
     int intVar = 25;
@@ -125,6 +128,7 @@ int main() {
     printf("Character value: %c\n", charVar);
     return 0;
 }
+~~~
 # Output:
 <img width="669" height="336" alt="image" src="https://github.com/user-attachments/assets/4c665135-f5b0-42b7-b77b-39221faf732c" />
 
@@ -166,6 +170,7 @@ int main() {
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include <stdio.h>
 int main() {
     int a, b;
@@ -191,7 +196,7 @@ int main() {
     printf("Bitwise NOT of b (~b) = %d\n", ~b);
     return 0;
 }
-
+~~~
 # Output:
 <img width="588" height="697" alt="image" src="https://github.com/user-attachments/assets/ccaa0fb8-00f2-49ba-937b-a025d4c9991c" />
 
@@ -239,6 +244,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+~~~
 #include<stdio.h>
 int main(){
     char ch;
@@ -250,6 +256,7 @@ int main(){
     :printf("Special Symbol\n");
     return 0;
 }
+~~~
 # Output:
 <img width="583" height="265" alt="image" src="https://github.com/user-attachments/assets/a0137f31-a9c3-4337-a594-372d1702a7a6" />
 
